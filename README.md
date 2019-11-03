@@ -1,5 +1,5 @@
 # Super Mario Earthquake
-Jeu vidéo réalisé en Java avec les bibliothèques **Swing** et **JACo MP3 Player** qui a fait office de production finale de TPE.
+Jeu vidéo réalisé en Java avec les bibliothèques **Awt** et **JACo MP3 Player** qui a fait office de production finale de TPE.
 ## Principe du jeu
 Ce jeu est un jeu de plate-forme tout à fait classique. Le but est de parcourir les niveaux afin de récupérer les trois parchemins qui vous inculqueront du savoir sur la protection des populations face aux séismes. Ceci afin de pouvoir répondre correctement au QCM final pour éviter que la population de **la ville** ne disparaisse.
 
